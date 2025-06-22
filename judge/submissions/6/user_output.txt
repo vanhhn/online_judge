@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "C:\xampp\htdocs\online_judge\judge/submissions/6/main.py", line 1, in <module>
-    a,b=int(input().split())
-        ~~~^^^^^^^^^^^^^^^^^
-TypeError: int() argument must be a string, a bytes-like object or a real number, not 'list'
