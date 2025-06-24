@@ -4,7 +4,7 @@
 </main>
 <footer class="text-center text-muted py-4 mt-auto">
   <div class="container">
-    <p>&copy; <?php echo date('Y'); ?> OJ Mini. All Rights Reserved.</p>
+    <p>&copy; <?php echo date('Y'); ?> OJ VANH. All Rights Reserved.</p>
   </div>
 </footer>
 
